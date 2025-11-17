@@ -1,6 +1,4 @@
-## Hi I'm Alaa 👋
-I develop **dApps** with **React** 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=1782F7&multiline=true&repeat=false&width=435&height=62&lines=Hi%2C+I+am+Alaa+%F0%9F%91%8B%F0%9F%8F%BD;I+develop+dApps+with+React)](https://git.io/typing-svg)
 
 [![Protofire](https://img.shields.io/badge/works%20at-Protofire-131f45?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABgUlEQVR4nGJiIBMwYxPkZGdgdjdhsDbSYLCQEGZgefSC4eX//wRMctJiMH00nfHmz3VM/39uY/r/cy/T/3MLGfcqSDKIIatjRObICTKInq9ivM7Nyyj8+uf/W1deM5yz1GFw4eRlFLn2/P9h07T/dn/+YbGtxo6x9HsT0/8LxYxH+DgY2EBiWjIMMh8WMr4DucDFgMEIphYlcJQ5GTT+f2RkWH+aYc2nHwy/QGLXnjA8OXGR4dD/TwwMyiIMalg1vn7H8IzhEwODBheDJkyMn52BQ5uXQf//RwaGF68ZXmDVuPTW/wV/Pvz/yfObgRvk+Tw9hoQTMUwnRX4zKbx68v/GnusMh3GGaoIsQ4CFIINGvhpD4rdY5v/fUpn/P09lemwny6CDrI4FmcPPwsDBxcDI/ePP/98vvjK8WXr93+Rb3xiuLrr/f9nL7wyfcdrWr8HY8dWN+f9LJ6ZH7Iw4lWEJnN8Qz7/99f/lH0IpBR3o8DCo8jEzcJCojXgACAAA//9A0oWc5/ZdQAAAAABJRU5ErkJggg==)](https://protofire.io/)
 
